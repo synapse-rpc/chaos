@@ -16,11 +16,11 @@
 
 #### 安装包:
 1. 下载 Jar 包(已经包含所有依赖)
-> 还没打包出来
+> https://github.com/synapse-rpc/chaos/releases
 2. 用Maven/gradle安装
 > 还没上传呢
 
-#### 内置测试程序,提供了简单的测试
+#### 内置Demo测试程序,提供了简单的测试
 > java -jar chaos.jar -h
 
 #### 使用前奏:
