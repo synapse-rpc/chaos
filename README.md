@@ -2,8 +2,6 @@
 
 ### 此为系统核心交互组件,包含了事件和RPC系统
 
-!!!! 现在RPC Server不能正常返回 method not found错误
-
 ### 依赖包
 1. amqp-client-4.0.2 
 > http://central.maven.org/maven2/com/rabbitmq/amqp-client/4.0.2/amqp-client-4.0.2.jar
@@ -13,6 +11,8 @@
 > http://central.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar
 4. slf4j-nop-1.7.25
 > http://central.maven.org/maven2/org/slf4j/slf4j-nop/1.7.25/slf4j-nop-1.7.25.jar
+5. commons-cli-1.4  (测试程序部分)
+> http://mirrors.hust.edu.cn/apache//commons/cli/binaries/commons-cli-1.4-bin.zip
 
 #### 安装包:
 1. 下载 Jar 包(已经包含所有依赖)
