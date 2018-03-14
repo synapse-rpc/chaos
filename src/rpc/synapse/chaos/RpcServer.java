@@ -71,6 +71,6 @@ public class RpcServer {
                 }
             }
         };
-        ch.basicConsume(queueName, false, consumer);
+        ch.basicConsume(queueName, true, consumer);
     }
 }
