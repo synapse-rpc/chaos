@@ -20,6 +20,9 @@
 2. 用Maven/gradle安装
 > 还没上传呢
 
+#### 内置测试程序,提供了简单的测试
+> java -jar chaos.jar -h
+
 #### 使用前奏:
 1. 需要一个RabbitMQ服务器
 
